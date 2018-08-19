@@ -1,6 +1,7 @@
 # Training
 A collection of training materials and best practices
-A guide to organizing data science projects: https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71
+
+A guide to organizing data science projects can be found [here](https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71)
 
 ## Overview
 Data science projects should be 
