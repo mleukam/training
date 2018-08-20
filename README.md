@@ -29,6 +29,7 @@ Here is a detailed [tutorial](https://snakemake.readthedocs.io/en/stable/tutoria
 * Archive utility
 
 ## File organization ##
+A suggested file structure for data science projects
 ![picture alt](http://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1000424.g001 "Source is Noble 2009 PLOS Computational Biology")
 
 ## Workflow ##
