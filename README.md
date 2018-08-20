@@ -1,11 +1,11 @@
 # Reproducible research #
 A collection of training materials and best practices
 
-*"Someone unfamiliar with your project should be able to look at your computer files and understand in detail what you did and why. This 'someone' could be any of a variety of people: someone who read your published article and wants to try to reproduce your work, a collaborator who wants to understand the details of your experiments, a future student working in your lab who wants to extend your work after you have moved on to a new job, your research advisor, who may be interested in understanding your work or who may be evaluating your research skills. Most commonly, however, that 'someone' is you"* -[William Stafford Noble](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+## Overview ##
+*"Someone unfamiliar with your project should be able to look at your computer files and understand in detail what you did and why. This 'someone' could be any of a variety of people: someone who read your published article and wants to try to reproduce your work, a collaborator who wants to understand the details of your experiments, a future student working in your lab who wants to extend your work after you have moved on to a new job, your research advisor, who may be interested in understanding your work or who may be evaluating your research skills. Most commonly, however, that 'someone' is you"* -[William Stafford Noble](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)*
 
 A guide to organizing data science projects (updated 2018) can be found [here](https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71)
 
-## Overview ##
 Data science projects should be 
 1. Versioned with a version-control system (Github)
 2. Built with a build management tool (Snakemake)
