@@ -8,9 +8,9 @@ A guide to organizing data science projects (updated 2018) can be found [here](h
 
 Data science projects should be 
 1. Versioned with a version-control system (Github)
-2. Built with a build management tool (Snakemake, CWL, or WDL)
+2. Built with a build management tool (Nextflow, Snakemake, CWL, or WDL)
 3. Deployed with a deployment tool (Docker or Singularity)
-4. Shared and documented with a browser-based app (JupyterLab or Rnotebook)
+4. Shared and documented with a browser-based app (Project Wiki, JupyterLab or Rnotebook)
 
 ### Version control with Github ###
 * Github tutorial
