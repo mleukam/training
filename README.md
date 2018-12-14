@@ -1,3 +1,8 @@
+# Bioinformatics Learning #
+
+ * Rosalind problems http://rosalind.info/problems/locations/
+ * Biostar handbook
+
 # Reproducible research #
 A collection of training materials and best practices
 
