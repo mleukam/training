@@ -1,3 +1,6 @@
+*“The combination of some data and an aching desire for an answer does not ensure that a reasonable answercan be extracted from a given body of data”*
+- John Tukey
+
 # Bioinformatics Learning #
 
  * Rosalind problems http://rosalind.info/problems/locations/
