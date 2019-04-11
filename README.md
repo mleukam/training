@@ -25,7 +25,7 @@ R is a programming language that is a preferred outlet for statisticians and dat
 
 The best way to practice is to get some data you want analyzed and figure out how to do it. Use Google liberally. Install and try out some packages. The help function in RStudio and Stack Overflow will be your friend.
 
-## Recommended beginner workflow in R:
+## Recommended beginner workflow in R
 
  * Make a folder for your projects in your file manager
  * Open RStudio and go to File --> New Project and choose "make a project in a new folder." Choose your project folder for the parent.
