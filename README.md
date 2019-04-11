@@ -1,7 +1,9 @@
-*“The combination of some data and an aching desire for an answer does not ensure that a reasonable answercan be extracted from a given body of data”*
-- John Tukey
 
 # Data Analysis #
+
+> “The combination of some data and an aching desire for an answer does not ensure that a reasonable answercan be extracted from a given body of data”*
+> - John Tukey
+
 The recomended tools for a biomedical researcher first starting data analysis are Linux/shell and R. These will be sufficient the nearly all the current workflows in experimental data analysis and bioinformatics.
 
 ## Getting started in R ##
@@ -33,9 +35,9 @@ The best way to practice is to get some data you want analyzed and figure out ho
  * Eventually you will be doing all of your analyses with version control using tools like `git` and `workflowr`. As you get started though, just save all your R notebooks in a subfolder of your project folder (I usually call this `analysis`). Save your input data in a subfolder named `data` and your output datasets in `output`.
 
 ## Moving and storing big data
-Large datasets are often stored on institional servers, and if heavy computational lifting is required, are analyzed on high-performance computing clusters. The operating system for the servers and HPC is Linux. One typically interacts with Linux via a command line terminal window, which is a native program on a Mac (called terminal). Windows users can use Windows Subsystem for Linux [(WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Command line also called Unix command line, Shell, or BASH, among other things. While all technically different things, for our initial practice they can be taken to be the same.
+Large datasets are often stored on institional servers, and if heavy computational lifting is required, are analyzed on high-performance computing clusters. The operating system for the servers and HPC is Linux. One typically interacts with Linux via a command line terminal window, which is a native program on a Mac (called terminal). Windows users can use Windows Subsystem for Linux [(WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Command line is also called Unix command line, Shell, or BASH, among other things. While these all technically different things, for our initial purposes they can be taken to be the same.
 
-Don't be intimidated. You can go really far in command line with a handful of commands.
+You can go really far in command line with a handful of commands.
 A single online course should be enough to get started. [This is an example from Datacamp](https://www.datacamp.com/courses/introduction-to-shell-for-data-science).
 
 You can also access the terminal from the RStudio console by turning on this option in your preferences.
@@ -49,7 +51,8 @@ You can also access the terminal from the RStudio console by turning on this opt
 # Reproducible research #
 
 ## Overview ##
-*"Someone unfamiliar with your project should be able to look at your computer files and understand in detail what you did and why. This 'someone' could be any of a variety of people: someone who read your published article and wants to try to reproduce your work, a collaborator who wants to understand the details of your experiments, a future student working in your lab who wants to extend your work after you have moved on to a new job, your research advisor, who may be interested in understanding your work or who may be evaluating your research skills. Most commonly, however, that 'someone' is you"* -[William Stafford Noble](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+> "Someone unfamiliar with your project should be able to look at your computer files and understand in detail what you did and why. This 'someone' could be any of a variety of people: someone who read your published article and wants to try to reproduce your work, a collaborator who wants to understand the details of your experiments, a future student working in your lab who wants to extend your work after you have moved on to a new job, your research advisor, who may be interested in understanding your work or who may be evaluating your research skills. Most commonly, however, that 'someone' is you"
+> -[William Stafford Noble](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 A guide to organizing data science projects (updated 2018) can be found [here](https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71)
 
