@@ -2,22 +2,22 @@
 - John Tukey
 
 # Data Analysis #
-Recomended tools for a biologist or clinician first starting are Linux/shell and R. These will be sufficient the nearly all the current workflows in experimental data analysis and bioinformatics.
+The recomended tools for a biomedical researcher first starting data analysis are Linux/shell and R. These will be sufficient the nearly all the current workflows in experimental data analysis and bioinformatics.
 
 ## Getting started in R ##
 R is a programming language that is a preferred outlet for statisticians and data analysts to publish tools for manipulating, testing, and plotting data. 
 
-_First set up your computer._ Both downloads are free and open-source software.
+**First set up your computer.** Both downloads are free and open-source software.
 
  * [Download R from CRAN](https://cran.r-project.org/): this contains the interpreter and a few core libraries
  * [Download RStudio](https://www.rstudio.com/products/rstudio/download/): this is an integrated development environment that contains a text editor for typing R code, a console to type code interactively to the interpreter, a file management window, and other utilities.
 
-_Learning the basics._ First you need to learn how to assign variables and call functions. Also need to learn what kinds of data can be stored in R (characters, integers, decimal numbers, boolean operators, factors) and basic manipulation of data structures (vector, list, matrix, data frame, tibble).
+**Learning the basics.** First you need to learn how to assign variables and call functions. Also need to learn what kinds of data can be stored in R (characters, integers, decimal numbers, boolean operators, factors) and basic manipulation of data structures (vector, list, matrix, data frame, tibble).
 
  * [Datacamp introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
  * Built in interactive R tutorial called Swirl (google this for current instructions)
  
-_Tidy data._ In order to analyze data, you will spend most of your time cleaning and formatting data. The Tidyverse is a collection of packages for importing, summarizing, cleaning, merging, formatting, and most importantly plotting data. Hadley Wickham was the author or driving force behind all of these packages, and his introductary book is the best source for learning and reference.
+ **Tidy data.** In order to analyze data, you will spend most of your time cleaning and formatting data. The Tidyverse is a collection of packages for importing, summarizing, cleaning, merging, formatting, and most importantly plotting data. Hadley Wickham was the author or driving force behind all of these packages, and his introductary book is the best source for learning and reference.
 
  * [R for Data Science](https://r4ds.had.co.nz/): free and open online; buy a paper copy only if you like
 
@@ -53,13 +53,13 @@ You can also access the terminal from the RStudio console by turning on this opt
 
 A guide to organizing data science projects (updated 2018) can be found [here](https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71)
 
-Data science projects should be 
+Bioinformatics projects should be 
 1. Versioned with a version-control system (Github)
 2. Built with a build management tool (Nextflow, Snakemake, CWL, or WDL)
 3. Deployed with a deployment tool (Docker or Singularity)
-4. Shared and documented with a browser-based app (Project Wiki, JupyterLab or Rnotebook)
+4. Shared and documented with a browser-based app (Project Wiki, JupyterLab or WorkflowR)
 
-### Version control with Github ###
+### Version control with Git using GitHub ###
 * Github tutorial
 * Github tips
 
