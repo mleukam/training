@@ -23,8 +23,6 @@ R is a programming language that is a preferred outlet for statisticians and dat
 
  * [R for Data Science](https://r4ds.had.co.nz/): free and open online; buy a paper copy only if you like
 
-The best way to practice is to get some data you want analyzed and figure out how to do it. Use Google liberally. Install and try out some packages. The help function in RStudio and Stack Overflow will be your friend.
-
 ## Recommended beginner workflow in R
 
  * Make a folder for your projects in your file manager
@@ -41,6 +39,18 @@ You can go really far in command line with a handful of commands.
 A single online course should be enough to get started. [This is an example from Datacamp](https://www.datacamp.com/courses/introduction-to-shell-for-data-science).
 
 You can also access the terminal from the RStudio console by turning on this option in your preferences.
+
+## Analysis and modeling ##
+
+> "All models are wrong. The question is, how wrong do they have to be not to be useful?"
+> - Box and Draper, 1987
+
+The best way to practice is to get some data you want analyzed and figure out how to do it. Use Google liberally. Install and try out some packages. The help function in RStudio and Stack Overflow will be your friend.
+
+Some places to get started:
+
+ * [Survival analysis for beginners](https://www.datacamp.com/community/tutorials/survival-analysis-R)
+ * [Penalized multivariate regression model](http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/153-penalized-regression-essentials-ridge-lasso-elastic-net/)
 
 # Bioinformatics Learning #
 
