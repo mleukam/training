@@ -1,7 +1,7 @@
 
 # Data Analysis #
 
-> “The combination of some data and an aching desire for an answer does not ensure that a reasonable answercan be extracted from a given body of data”*
+> “The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data”*
 > - John Tukey
 
 The recomended tools for a biomedical researcher first starting data analysis are Linux/shell and R. These will be sufficient the nearly all the current workflows in experimental data analysis and bioinformatics.
