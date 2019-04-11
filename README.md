@@ -27,9 +27,9 @@ R is a programming language that is a preferred outlet for statisticians and dat
 
  * Make a folder for your projects in your file manager
  * Open RStudio and go to File --> New Project and choose "make a project in a new folder." Choose your project folder for the parent.
- * Once in your project, go to File --> new File and choose R notebook. Inside the notebook, write the date you started and the purpose of what you are doing. Then start adding code blocks. Best practice is to always start with a blank environment, so the first line of scripts is usually `rm(list = ls())`.
- * [A pitch for R notebooks](https://rviews.rstudio.com/2017/03/15/why-i-love-r-notebooks/)
- * [Details about R notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html)
+ * Once in your project, go to File --> new File and choose R notebook. Inside the notebook, write the date you started and the purpose of what you are doing. Then start adding code blocks. Best practice is to always start with a blank environment, so the first line of a new notebook or script is usually `rm(list = ls())`.
+   * [A pitch for R notebooks](https://rviews.rstudio.com/2017/03/15/why-i-love-r-notebooks/)
+   * [Details about R notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html)
  * Eventually you will be doing all of your analyses with version control using tools like `git` and `workflowr`. As you get started though, just save all your R notebooks in a subfolder of your project folder (I usually call this `analysis`). Save your input data in a subfolder named `data` and your output datasets in `output`.
 
 ## Moving and storing big data
